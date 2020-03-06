@@ -3,8 +3,9 @@
 	<title>Hello Github prectical after modifation file</title>
 </head>
 <body>
-	<h2>Hello Testing for git commad.</h2>
+	<h2>Hello Testing for git commad. </h2>
 	<H5>git add file , git commit -m,  git push, git fetch </H5>
+	<h5>how to Git fetch, marge and pull from remote mater to local master in git using tortoiseGit.</h5>
 	
 </body>
 </html>
