@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Github prectical after modifation file</title>
+	<title>Hello Github prectical </title>
 </head>
 <body>
 	<h2>Hello Testing for git commad. </h2>
