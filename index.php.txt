@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>Hello Github prectical</title>
+</head>
+<body>
+	<h2>Hello Testing for git commad.</h2>
+	<H5>git add file , git commit -m,  git push, git fetch </H5>
+	
+</body>
+</html>
