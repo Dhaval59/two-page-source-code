@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Github prectical </title>
+	<title>Hello Github prectical  cgfgf</title>
 </head>
 <body>
 	<h2>Hello Testing for git commad. </h2>
